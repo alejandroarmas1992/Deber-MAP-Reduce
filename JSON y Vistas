@@ -1,0 +1,217 @@
+id"848e92fd7c5fe07ae8f38de25300d03a"
+{
+ "id": "848e92fd7c5fe07ae8f38de25300d03a",
+ "key": "848e92fd7c5fe07ae8f38de25300d03a",
+ "value": {
+  "rev": "1-c2cf2987bf5dc0909060140ec29b4b55"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de25300d03a",
+  "_rev": "1-c2cf2987bf5dc0909060140ec29b4b55",
+  "Nombre": "Calle Luna Calle Sol",
+  "Album": "Lo Mato",
+  "Año de Grabacion": "1973",
+  "Interprete": "Hector Lavoe",
+  "Genero": "Salsa"
+ }
+}
+id"848e92fd7c5fe07ae8f38de25300ed7e"
+{
+ "id": "848e92fd7c5fe07ae8f38de25300ed7e",
+ "key": "848e92fd7c5fe07ae8f38de25300ed7e",
+ "value": {
+  "rev": "1-0cdc2d3fca8f702df4d3ef5e1d36dabb"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de25300ed7e",
+  "_rev": "1-0cdc2d3fca8f702df4d3ef5e1d36dabb",
+  "Nombre": "Besame la Boca",
+  "Año de Grabacion": "2001",
+  "Interprete": "Ricardo Montaner",
+  "Genero": "Pop"
+ }
+}
+id"848e92fd7c5fe07ae8f38de25301061a"
+{
+ "id": "848e92fd7c5fe07ae8f38de25301061a",
+ "key": "848e92fd7c5fe07ae8f38de25301061a",
+ "value": {
+  "rev": "1-1fa32d9bc6dfd530dc24db7cf79524c7"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de25301061a",
+  "_rev": "1-1fa32d9bc6dfd530dc24db7cf79524c7",
+  "Nombre": "De tardes Negras",
+  "Album": "111 ciento once",
+  "Interprete": "Tiziano Ferro",
+  "Genero": "Pop"
+ }
+}
+id"848e92fd7c5fe07ae8f38de253011d0f"
+{
+ "id": "848e92fd7c5fe07ae8f38de253011d0f",
+ "key": "848e92fd7c5fe07ae8f38de253011d0f",
+ "value": {
+  "rev": "1-893e4ab601d2473f17f132dca64c554e"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de253011d0f",
+  "_rev": "1-893e4ab601d2473f17f132dca64c554e",
+  "Nombre": "Como Duele",
+  "Año de Grabacion": "2008",
+  "Interprete": "Ricardo Arjona"
+ }
+}
+id"848e92fd7c5fe07ae8f38de253013420"
+{
+ "id": "848e92fd7c5fe07ae8f38de253013420",
+ "key": "848e92fd7c5fe07ae8f38de253013420",
+ "value": {
+  "rev": "1-0139b1150ad667a83cefc3aede6b8aa0"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de253013420",
+  "_rev": "1-0139b1150ad667a83cefc3aede6b8aa0",
+  "Nombre": "Almohada",
+  "Año de Grabacion": "1978",
+  "Interprete": "Jose Jose",
+  "Album": "Gavilan o Paloma"
+ }
+}
+id"848e92fd7c5fe07ae8f38de253014e3b"
+{
+ "id": "848e92fd7c5fe07ae8f38de253014e3b",
+ "key": "848e92fd7c5fe07ae8f38de253014e3b",
+ "value": {
+  "rev": "1-5701683dd7a8386f3eecaa174049c480"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de253014e3b",
+  "_rev": "1-5701683dd7a8386f3eecaa174049c480",
+  "Nombre": "O me voy o me quedo",
+  "Interprete": "Los Iracundos"
+ }
+}
+id"848e92fd7c5fe07ae8f38de253016804"
+{
+ "id": "848e92fd7c5fe07ae8f38de253016804",
+ "key": "848e92fd7c5fe07ae8f38de253016804",
+ "value": {
+  "rev": "1-a8adf61d2f330d53aee2692a6468c3cc"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de253016804",
+  "_rev": "1-a8adf61d2f330d53aee2692a6468c3cc",
+  "Nombre": "El Cantante",
+  "Interprete": "Hector Lavoe",
+  "Album": "Comedia"
+ }
+}
+id"848e92fd7c5fe07ae8f38de253018325"
+{
+ "id": "848e92fd7c5fe07ae8f38de253018325",
+ "key": "848e92fd7c5fe07ae8f38de253018325",
+ "value": {
+  "rev": "1-2389d0bf6f0475b997ff77a21bff2260"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de253018325",
+  "_rev": "1-2389d0bf6f0475b997ff77a21bff2260",
+  "Nombre": "Abrazame",
+  "Interprete": "Alejandro Fernandez",
+  "Album": "Muy dentro de mi corazon"
+ }
+}
+id"848e92fd7c5fe07ae8f38de253019be7"
+{
+ "id": "848e92fd7c5fe07ae8f38de253019be7",
+ "key": "848e92fd7c5fe07ae8f38de253019be7",
+ "value": {
+  "rev": "2-62988b74bcd44c80f1cf002bfbec9d50"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de253019be7",
+  "_rev": "2-62988b74bcd44c80f1cf002bfbec9d50",
+  "Nombre": "Lo Grande que es Perdonar",
+  "Interprete": "Vico C",
+  "Album": "Desahogo",
+  "Genero": "Reggaeton"
+ }
+}
+id"848e92fd7c5fe07ae8f38de25301c253"
+{
+ "id": "848e92fd7c5fe07ae8f38de25301c253",
+ "key": "848e92fd7c5fe07ae8f38de25301c253",
+ "value": {
+  "rev": "1-262fa9852adfcc40c76c314f173e3836"
+ },
+ "doc": {
+  "_id": "848e92fd7c5fe07ae8f38de25301c253",
+  "_rev": "1-262fa9852adfcc40c76c314f173e3836",
+  "Nombre": "Como te Olvido",
+  "Interprete": "Binomio de Oro",
+  "Genero": "Vallenato"
+ }
+}
+
+id"_design/Vistas"
+{
+ "id": "_design/Vistas",
+ "key": "_design/Vistas",
+ "value": {
+  "rev": "27-ec054031fbf02c9f60ed601f352aeec0"
+ },
+ "doc": {
+  "_id": "_design/Vistas",
+  "_rev": "27-ec054031fbf02c9f60ed601f352aeec0",
+  "views": {
+  Saca los elementos que en su genero sea salsa
+   "Vista1": {
+    "map": "function (doc) {\n  if(doc.Genero==\"Salsa\"){\n    emit(\"Salsa\",doc.Nombre)\n  }\n}"
+   },
+   cuenta los elementos que en su genero tenga la palabra pop
+   "vista 2": {
+    "reduce": "_count",
+    "map": "function (doc) {\n  if(doc.Genero==\"Pop\"){\n  emit(doc.Nombre, doc.Album);\n}\n}"
+   },
+   
+   "Vista 3": {
+    "reduce": "_sum",
+    "map": "function (doc) {\n  if(doc.Nombre==\"El Cantante\"){\n  emit(doc._id, doc.Genero,1);\n  }\n}"
+   },
+   Cuenta los nombres que tengan calle luna calle sol
+   "Vista 4": {
+    "reduce": "_count",
+    "map": "function (doc) {\n  if(doc.Nombre==\"Calle Luna Calle Sol\")\n  emit(doc._id, doc.Nombre);\n}"
+   },
+   Cuenta los elementos que su interprete sea Ricardo Montaner
+   "Vista 5": {
+    "reduce": "_count",
+    "map": "function (doc) {\n  if( doc.Interprete==\"Ricardo Montaner\"){\n    emit(\"Ricardo\",1)\n  }}"
+   },
+   Le da el valor de 1 si el intreprete es Hector Lavoe
+   "Vista 6": {
+    "reduce": "_sum",
+    "map": "function (doc) {\n  if(doc.Interprete==\"Hector Lavoe\"){\n  emit(doc.Interprete, 1);\n  }\n}"
+   },
+   Muestra todos los registros
+   "Vista 7": {
+    "map": "function (doc) {\n  emit(doc._id, 1);\n}"
+   },
+   Muestra el id y el valor de 1 si el intreprete es Vico C o la cancion se llama calle luna calle sol
+   "Vista 8": {
+    "map": "function (doc) {\n  if(doc.Interprete==\"Vico C\" || doc.Nombre==\"Calle Luna Calle Sol\")\n  emit(doc._id, 1);\n}",
+    "reduce": "_sum"
+   },
+   Si el interprete es no null y su genero pop dara el nombre y el valor de 1
+   "Vista 9": {
+    "map": "function (doc) {\n  if(doc.Interprete!=null && doc.Genero==\"Pop\")\n  emit(doc.Nombre, 1);\n}"
+   },
+   Si el nombre del intreprete es ricardo montaner o el nombre es lo grande que es perdonar emite el id el valor de uno y el nombre
+   "Vista 10": {
+    "map": "function (doc) {\n  if(doc.Interprete=\"Ricardo Montaner\" || doc.Nombre==\"Lo Grande que es Perdonar\")\n  emit(doc._id, 1,doc.Nombre);\n}"
+   }
+  },
+  "language": "javascript"
+ }
+}
